@@ -3,5 +3,5 @@
  
  ---
 
- Idade: 20 
- Cidade: Tarumã
+Idade: 20 
+Cidade: Tarumã
