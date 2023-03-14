@@ -7,7 +7,6 @@ Cidade: Tarumã
 
 ----
 ## Experiência:
-=======
 ----
 
 
