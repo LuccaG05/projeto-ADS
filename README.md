@@ -15,7 +15,7 @@ UF: SP
 
 - 8 anos como designer na empresa 
 
-    Celso Comunicação Visual e Gráfica Rápida
+Celso Comunicação Visual e Gráfica Rápida
 
 ----
 ## Habilidades:
