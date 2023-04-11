@@ -28,6 +28,9 @@ Celso Comunicação Visual e Gráfica Rápida
 luccagoncalves00@gmail.com
 
 (18) 99751-0507
+---
 CPF: xxx.xxx.xxx-xx
+---
 RG: xx.xxx.xxx-xx
+---
 Endereço: Av arapongas, 698
